@@ -64,6 +64,8 @@ packages/adapter-prisma/prisma/migrations
 db.sqlite
 packages/adapter-supabase/supabase/.branches
 packages/adapter-drizzle/.drizzle
+packages/adapter-pocketbase/pocketbase/pb_data
+packages/adapter-pocketbase/pocketbase/pb_migrations
 
 # Tests
 coverage

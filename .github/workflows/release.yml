@@ -52,6 +52,7 @@ on:
           - "adapter-mikro-orm"
           - "adapter-mongodb"
           - "adapter-neo4j"
+          - "adapter-pocketbase"
           - "adapter-pouchdb"
           - "adapter-prisma"
           - "adapter-sequelize"
