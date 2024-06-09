@@ -1,6 +1,6 @@
 {
   "name": "@auth/pocketbase-adapter",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Pocketbase adapter for Auth",
   "homepage": "https://authjs.dev/reference/adapter/prisma",
   "repository": "https://github.com/nextauthjs/next-auth",
